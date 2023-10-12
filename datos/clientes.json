@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Carlos Pérez",
+        "comentario": "Estoy realmente impresionado con mi nuevo Toyota. La calidad y el rendimiento son increíbles. ¡Definitivamente la mejor elección que he hecho!",
+        "foto": "https://randomuser.me/api/portraits/men/84.jpg"
+    },
+    {
+        "nombre": "Maria López",
+        "comentario": "Mi familia y yo estamos encantados con nuestro Toyota. Espacioso, seguro y económico en combustible. ¡No podríamos estar más felices!",
+        "foto": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "nombre": "Arturo Ramírez",
+        "comentario": "Toyota siempre ha sido sinónimo de confiabilidad para mí. Mi último Toyota ha superado mis expectativas. Conducción suave y tecnología de vanguardia. ¡Recomiendo Toyota a todos!",
+        "foto": "https://randomuser.me/api/portraits/men/33.jpg"
+    }
+]
